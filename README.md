@@ -3,4 +3,4 @@
 
 *Funcion que permite tratar y dar un tamaño especifico a las imagenes
 a traves de una estrategia,dando como retroalimentacion un mensaje 
-cada que 10000 imagenes convertidas*
+cada 10000 imagenes convertidas*
